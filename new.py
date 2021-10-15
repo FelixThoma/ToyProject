@@ -1,4 +1,4 @@
-from calculator import calculator, printer
+from functions import calculator, printer
 
 calculator(1,2)
 
