@@ -1,9 +1,9 @@
-from calculator import calculator
+from calculator import calculator, printer
 
 calculator(1,2)
 
 calculator(10000,1211)
 
-a
+printer("hababababa")
 
-another change
+#another change
